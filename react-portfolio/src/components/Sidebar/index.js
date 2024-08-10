@@ -9,7 +9,6 @@ import { faGithub, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-sv
 
 const Sidebar = () => (
     <div className='nav-bar'>
-
         <nav>
             <NavLink 
                 exact="true" 
